@@ -54,16 +54,6 @@ Git • GitHub • IntelliJ IDEA • VS Code • Linux
 ---
 
 
-## 📊 GitHub Stats
-
-![Amlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmlanDalai&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmlanDalai&layout=compact&theme=tokyonight)
-
-
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
