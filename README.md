@@ -134,7 +134,7 @@ Actively exploring and contributing to open-source repositories.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/AmlanDalai/AmlanDalai/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
