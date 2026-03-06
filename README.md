@@ -64,7 +64,7 @@ Git • GitHub • IntelliJ IDEA • VS Code • Linux
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmlanDalai&theme=tokyo-night)
 
 ---
 
@@ -111,6 +111,7 @@ Actively exploring and contributing to open-source repositories.
 ## 📫 Connect With Me
 
 GitHub: https://github.com/AmlanDalai
+
 LinkedIn: https://www.linkedin.com/in/amlan-dalai-5b8bb1286/
 
 ---
